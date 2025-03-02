@@ -15,3 +15,5 @@ Homepage to show stories and posts of friends
 Posts Like and Comment functionality
 Search page to see all the users on the app
 Friends list of the users
+
+![DEMO VIDEO]([https://example.com/image.jpg](https://drive.google.com/file/d/1snfhEZN9KiGhjWm5a7GI2Vej9WX-__vq/view?usp=drive_link))
