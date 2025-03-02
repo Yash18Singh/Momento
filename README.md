@@ -1,6 +1,6 @@
 A full stack social media mobile app. DEMO: https://drive.google.com/drive/u/2/folders/1w6ySCjPKZ7gevphromUd9qpCK6YlArtY
 
-Tech Stacks: React Native, Node.js, Express.js, MongoDB, Socket.io
+Tech Stacks: React Native, Node.js, Express.js, MongoDB, Socket.io, Cloudinary
 
 Functionalities:
 
